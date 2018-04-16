@@ -19,6 +19,7 @@
             android:layout_marginLeft="28dp"
             android:layout_marginStart="28dp"
             android:text="Read up on materials before class"
+            android:textStyle="bold"
             app:layout_constraintStart_toStartOf="parent"
             tools:layout_editor_absoluteY="16dp" />
 
@@ -66,6 +67,7 @@
             android:layout_height="30dp"
             android:layout_marginLeft="28dp"
             android:layout_marginStart="28dp"
+            android:textStyle="bold"
             android:text="Arrive on time so as not to miss important part of the lesson"
             app:layout_constraintStart_toStartOf="parent"
             tools:layout_editor_absoluteY="16dp" />
@@ -112,7 +114,8 @@
             android:layout_height="30dp"
             android:layout_marginLeft="28dp"
             android:layout_marginStart="28dp"
-            android:text="TextView"
+            android:text="Attempt the problem myself"
+            android:textStyle="bold"
             app:layout_constraintStart_toStartOf="parent"
             tools:layout_editor_absoluteY="16dp" />
 
@@ -123,7 +126,7 @@
             android:layout_marginLeft="28dp"
             android:layout_marginStart="28dp"
             android:layout_marginTop="24dp"
-            android:text="TextView"
+            android:text="Did I achieve this goal today?"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView1" />
 
@@ -161,6 +164,7 @@
             android:layout_marginLeft="28dp"
             android:layout_marginStart="28dp"
             android:text="My personal reflection today"
+            android:textStyle="bold"
             app:layout_constraintStart_toStartOf="parent"
             tools:layout_editor_absoluteY="16dp" />
 
